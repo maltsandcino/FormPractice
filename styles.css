@@ -64,7 +64,7 @@ img {
     font-weight: 500;
     width: 80%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: calc(0.75em + 1vw);
+    font-size: calc(0.5em + 1vw);
     margin-left: 5%;
 }
 
